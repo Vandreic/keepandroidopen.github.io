@@ -70,6 +70,43 @@
       width: 100%;
       border-top: 1px solid #dee2e6;
     }
+
+    .li-list {
+      list-style: none;
+      align-items: center;
+      vertical-align: middle;
+      background-repeat: no-repeat;
+      background-position: left center;
+      padding-left: 20px;
+      line-height: 1.2;
+      content: "➤ ";
+    }
+    
+    .li-list::before {
+      color: blue;
+      margin-right: 0.5em; 
+  }
+    
+    .li-money {
+      background-image: url('/img/money_bag.svg');
+    }
+
+    .li-terms {
+      background-image: url('/img/contract_edit.svg');
+    }
+
+    .li-id {
+      background-image: url('/img/id_card.svg');
+    }
+
+    .li-signing {
+      background-image: url('/img/fingerprint.svg');
+    }
+
+    .li-appids {
+      background-image: url('/img/receipt.svg');
+    }
+
   </style>
 </head>
 <body>
@@ -97,10 +134,10 @@
               </ul>
           </div>
           <div style="flex: 3; min-width: 300px; margin: 20px;">
-              <p>{{page.site_disclaimer}}</p>
-              <p>{{page.site_privacy}}</p>
+              <p>{{page.site_disclaimer | markdownify}}</p>
+              <p>{{page.site_privacy | markdownify}}</p>
               <p>
-                  {{page.site_copyright}} <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="/img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="/img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+                  {{page.site_copyright | markdownify | remove: '<p>' | remove: '</p>' | strip }} <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a><img src="/img/cc.svg" alt="CC0 logo" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="/img/zero.svg" alt="CC0 zero logo" style="max-width: 1em;max-height:1em;margin-left: .2em;">
               </p>
           </div>
           <div style="flex: 1; min-width: 200px; margin: 20px; text-align: center; justify-content: center; align-items: center;">

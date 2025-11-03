@@ -10,9 +10,9 @@ contact_header: "İrtibat"
 contact_email: "E-posta"
 site_problems_header: "Sorunlar"
 site_report_issues: "Site Sorunlarını Raporlayın"
-site_disclaimer: "<strong>Disclaimer</strong>: Bu site kâr amacı gütmez ve topluluk tarafından yönetilen bir girişimdir. Sadece bigilendirme ve eğitim amaçları bulunur."
-site_privacy: "<strong>Mahremiyet Beyanı</strong>: Bu site hiçbir çerez kullanmaz ve kullanıcıları takip etmez veya kaydetmez."
-site_copyright: "<strong>Telif Hakkı</strong>: Yok. Bu çalışma kamu malıdır:"
+site_disclaimer: "**Disclaimer**: Bu site kâr amacı gütmez ve topluluk tarafından yönetilen bir girişimdir. Sadece bigilendirme ve eğitim amaçları bulunur."
+site_privacy: "**Mahremiyet Beyanı**: Bu site hiçbir çerez kullanmaz ve kullanıcıları takip etmez veya kaydetmez."
+site_copyright: "**Telif Hakkı**: Yok. Bu çalışma kamu malıdır:"
 ---
 
 Ağustos 2025 tarihinde Google, gelecek seneden itibaren önceden
@@ -20,12 +20,16 @@ ile merkezi kayıt yaptırılmadan Android platformu için uygulama
 geliştirmenin mümkün olmayacağını beyan etmiştir.
 Bu kayıt, şunlara sebep olacaktır:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" alt="money_bag" /> Google'a bir ücret ödenmesine</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" alt="contract_edit" /> Google'ın Şart ve Koşullarına onay verilmesine</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" alt="id_card" /> Hükümet tasdikli kimlik belgesi sağlanmasına</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" alt="fingerprint" /> Geliştiricinin kişisel özel imzalama anahtarının kanıtının yüklenmesine</div> 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" alt="receipt" /> Tüm güncel ve gelecek uygulama kimliklerinin listelenmesine</div>
-
+- Google'a bir ücret ödenmesine
+{:.li-list .li-money}
+- Google'ın Şart ve Koşullarına onay verilmesine
+{:.li-list .li-terms}
+- Hükümet tasdikli kimlik belgesi sağlanmasına
+{:.li-list .li-id}
+- Geliştiricinin kişisel özel imzalama anahtarının kanıtının yüklenmesine
+{:.li-list .li-signing}
+- Tüm güncel ve gelecek uygulama kimliklerinin listelenmesine
+{:.li-list .li-appids}
 
 ## Bu, haklarınız için ne anlama gelir
 

@@ -10,19 +10,25 @@ contact_header: "Kontakt"
 contact_email: "E-Mail"
 site_problems_header: "Probleme melden"
 site_report_issues: "Melden Sie ein Problem auf der Website"
-site_disclaimer: "<strong>Haftungsausschluss</strong>: Diese Website ist eine gemeinschaftliche, nicht-kommerzielle Initiative. Sie dient ausschließlich Informations- und Bildungszwecken."
-site_privacy: "<strong>Datenschutz</strong>: Diese Website verwendet keine Cookies und führt weder Tracking noch Nutzerprotokollierung durch."
-site_copyright: "<strong>Urheberrechte</strong>: Keine. Dieses Werk steht unter der Lizenz"
+site_disclaimer: "**Haftungsausschluss**: Diese Website ist eine gemeinschaftliche, nicht-kommerzielle Initiative. Sie dient ausschließlich Informations- und Bildungszwecken."
+site_privacy: "**Datenschutz**: Diese Website verwendet keine Cookies und führt weder Tracking noch Nutzerprotokollierung durch."
+site_copyright: "**Urheberrechte**: Keine. Dieses Werk steht unter der Lizenz"
 ---
 
 Im August 2025 hat Google [angekündigt](https://developer.android.com/developer-verification), dass es ab dem folgenden Jahr nicht mehr möglich sein wird, Anwendungen für die Android-Plattform zu entwickeln, ohne sich zuvor bei Google registriert zu haben.
 Diese Registrierung umfasst:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" alt="money_bag" /> Zahlung einer Gebühr an Google</div>  
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" alt="contract_edit" /> Zustimmung zu den Nutzungsbedingungen von Google</div>  
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" alt="id_card" /> Vorlage eines amtlichen Ausweises</div>  
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" alt="fingerprint" /> Hochladen des Nachweises über den privaten Signaturschlüssel des Entwicklers</div>  
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" alt="receipt" /> Liste aller aktuellen und zukünftigen App-Kennungen</div>
+- Zahlung einer Gebühr an Google
+{:.li-list .li-money}
+- Zustimmung zu den Nutzungsbedingungen von Google
+{:.li-list .li-terms}
+- Vorlage eines amtlichen Ausweises
+{:.li-list .li-id}
+- Hochladen des Nachweises über den privaten Signaturschlüssel des Entwicklers
+{:.li-list .li-signing}
+- Liste aller aktuellen und zukünftigen App-Kennungen
+{:.li-list .li-appids}
+
 
 ## Was das für Ihre Rechte bedeutet
 

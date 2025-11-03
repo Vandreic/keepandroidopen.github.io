@@ -15,7 +15,13 @@ It aims to inform on the impacts on consumers, developers, states and coordinate
 3. Make the changes.
 4. Create a pull request.
 
-**Contact**: info@keepandroidopen.org  
+## Translations Needed!
+
+To provide a translation into a new language like Spanish (language code: "es"):
+
+1. [Edit the index.md](https://github.com/keepandroidopen/keepandroidopen.github.io/edit/main/index.md) in a fork and re-name the file "index-es.md"
+2. Translate the markdown headers and page content. The most important text is at the beginning; the lists of links do not all need to be translated.
+3. Commit changes to your fork and file a Pull Request with your translation.
 
 ## License 
 

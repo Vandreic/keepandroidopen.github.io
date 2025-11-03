@@ -10,9 +10,9 @@ contact_header: "Contact"
 contact_email: "Email"
 site_problems_header: "Problems"
 site_report_issues: "Report Site Issues"
-site_disclaimer: "<strong>Disclaimer:</strong> This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes."
-site_privacy: "<strong>Privacy:</strong> This site uses no cookies and performs no user tracking or logging."
-site_copyright: "<strong>Copyright:</strong> None. This work is marked"
+site_disclaimer: "**Disclaimer:** This website is a community-driven noncommercial undertaking. It is operated solely for informational and educational purposes."
+site_privacy: "**Privacy:** This site uses no cookies and performs no user tracking or logging."
+site_copyright: "**Copyright:** None. This work is marked"
 ---
 
 In August 2025, Google [announced](https://developer.android.com/developer-verification) that starting next year,
@@ -20,11 +20,16 @@ it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
 This registration will involve:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" alt="money_bag" /> Paying a fee to Google</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" alt="contract_edit" /> Agreeing to Google's Terms and Conditions</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" alt="id_card" /> Providing government identification</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" alt="fingerprint" /> Uploading evidence of the developer's private signing key</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" alt="receipt" /> Listing all current and future application identifiers</div>
+- Paying a fee to Google
+{:.li-list .li-money}
+- Agreeing to Google's Terms and Conditions
+{:.li-list .li-terms}
+- Providing government identification
+{:.li-list .li-id}
+- Uploading evidence of the developer's private signing key
+{:.li-list .li-signing}
+- Listing all current and future application identifiers
+{:.li-list .li-appids}
 
 ## What this means for your rights
 

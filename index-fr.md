@@ -10,9 +10,9 @@ contact_header: "Contact"
 contact_email: "Email"
 site_problems_header: "Problèmes"
 site_report_issues: "Signaler un problème sur le site"
-site_disclaimer: "<strong>Avertissement :</strong> Ce site web est une initiative communautaire à but non lucratif. Il est exploité uniquement à des fins d’information et d’éducation."
-site_privacy: "<strong>Confidentialité :</strong> Ce site n’utilise aucun cookie et n’effectue aucun suivi ni enregistrement des utilisateurs."
-site_copyright: "<strong>Droits d'auteur :</strong> Aucun. Cette œuvre est sous licence"
+site_disclaimer: "**Avertissement :** Ce site web est une initiative communautaire à but non lucratif. Il est exploité uniquement à des fins d’information et d’éducation."
+site_privacy: "**Confidentialité :** Ce site n’utilise aucun cookie et n’effectue aucun suivi ni enregistrement des utilisateurs."
+site_copyright: "**Droits d'auteur :** Aucun. Cette œuvre est sous licence"
 ---
 
 En août 2025, Google a [annoncé](https://developer.android.com/developer-verification) que, dès l'année suivante,
@@ -20,11 +20,16 @@ il ne sera plus possible de développer des applications pour la plateforme Andr
 sans s'être préalablement enregistré auprès de Google.
 Cet enregistrement impliquera:
 
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/money_bag.svg" alt="money_bag" /> Paiement de frais à Google</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/contract_edit.svg" alt="contract_edit" /> Acceptation des conditions d'utilisation de Google</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/id_card.svg" alt="id_card" /> Fourniture d'une pièce d'identité officielle</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/fingerprint.svg" alt="fingerprint" /> Téléchargement de la preuve de la clé de signature privée du développeur</div>
-<div style="align-items: center; vertical-align: middle;">➤ <img style="vertical-align: middle;" src="/img/receipt.svg" alt="receipt" /> Liste de tous les identifiants d'application actuels et futurs</div>
+- Paiement de frais à Google
+{:.li-list .li-money}
+- Acceptation des conditions d'utilisation de Google
+{:.li-list .li-terms}
+- Fourniture d'une pièce d'identité officielle
+{:.li-list .li-id}
+- Téléchargement de la preuve de la clé de signature privée du développeur
+{:.li-list .li-signing}
+- Liste de tous les identifiants d'application actuels et futurs
+{:.li-list .li-appids}
 
 ## Ce que cela signifie pour vos droits
 
