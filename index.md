@@ -96,7 +96,7 @@ Complaints are especially impactful when they are authored by a citizen of that 
 
 - Email: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
 - File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)
-- Send a request to Australian Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Ask them to lodge a designated complaint to the Australian Competition & Consumer Comission (ACCC).
+- Send a request to Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Ask them to lodge a designated complaint to the Australian Competition & Consumer Comission (ACCC).
 
 #### Japan
 
