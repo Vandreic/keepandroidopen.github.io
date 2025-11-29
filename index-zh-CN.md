@@ -10,9 +10,9 @@ contact_header: "联系"
 contact_email: "电子邮件"
 site_problems_header: "问题"
 site_report_issues: "报告网站问题"
-site_disclaimer: "**免责声明:**本网站是一个由社区推动的非商业性项目。仅用于提供信息与教育目的。"
+site_disclaimer: "**免责声明:**本站是一个由社区推动的非商业性项目。仅用于提供信息与教育目的。"
 site_privacy: "**隐私:**本站不使用cookies，以及用户跟踪或记录"
-site_copyright: "**版权:** 无。本著作已标记"
+site_copyright: "**版权:** 无。本著作已标记为"
 ---
 
 2025年八月，Google [宣布](https://developer.android.com/developer-verification)从明年开始，
@@ -33,13 +33,14 @@ site_copyright: "**版权:** 无。本著作已标记"
 ## 这对于你的权利来说意味着什么
 
 ➤ 你，**是消费者**，在购买你的Android设备时相信了Google的这是一个开放的系统平台且你可以在其上运行你选择的任何软件的承诺。然而，从明年开始，他们将在未经同意的情况下向你的操作系统推送更新，不可挽回地剥夺了该权利，并让你听从他们对允许信任哪些软件的判断。
+
 ➤ 你，**是创作者**，在没有事先取得Google的批准情况下，不能再开发应用程序并直接与你的亲朋好友和社区分享。Android的承诺————即是它过去常用来将自己与iPhone区分开来的营销优势————一直是“开放的”。但Google显然认为，他们足以对Android生态系统上锁封闭，以及插手干预，他们现在可以以傲慢偏见又不受制裁为由抛弃这一原则。
 
-➤ 你，**是国家**, 在将公民权利和数字主权割让给一家公司，它遵守着独裁政权法外要求，可移除唯独不称心如意却完全合法的应用程序。对企业和政府运营的至关重要的软件将要任由一家远在天边而又触不可及的企业进行见不得人而又肆意地摆布。
+➤ 你，**是国家**, 在将公民权利和数字主权割让给一家公司，它遵守着威权政权法外要求，可移除唯独不称心如意却完全合法的应用程序。对企业和政府运营的至关重要的软件将要任由一家远在天边而又触不可及的企业进行见不得人而又肆意地摆布。
 ## 你可以如何出份力
 
 ### 消费者：联系国家监管机构
-世界各地的监管机构真正关注科技行业的垄断和权力集中，并希望直接听取受影响和担忧的个人意见。直接联系监管机构时，你应该 _礼貌_ 而又 _详尽地_ 说明你所认为这些政策将对消费者和竞争造成的伤害。
+世界各地的监管机构真正关注科技行业的垄断和权力集中，并希望直接听取受影响和担忧的个人意见。直接联系监管机构时，你应该 _礼貌_ 而又 _详尽_ 地说明你所认为这些政策将对消费者和竞争造成的伤害。
 
 当由该国家或地区的公民撰写投诉，并且电子邮件的语言是用该地区管理机构的官方语言之一编写的时，投诉的影响力尤具份量。索要一份投诉的 _书面确认_，并考虑将您收到的任何回复转发给[victory@keepandroidopen.org](mailto:victory@keepandroidopen.org)，以便我们精选并参考它们。
 #### 欧盟
@@ -79,7 +80,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 
 - 电子邮件: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - 联系[贸易竞争委员会办公室 (OTCC)](https://www.tcct.or.th/)
-- _注意: 泰国被指定为强制执行开发者注册的[[ 4 个首批的国家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_
+- _注意: 泰国被指定为强制执行开发者注册的[ 4 个首批的国家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_
 
 #### 印度尼西亚
 
@@ -131,7 +132,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 #### 阿根廷
 
 - 电子邮件：[cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)
-- 联系[国家能力防御委员会 (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)
+- 联系[国家竞争保护委员会 (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)
 
 #### 墨西哥
 
@@ -160,8 +161,9 @@ site_copyright: "**版权:** 无。本著作已标记"
 
 ### 开发者: 坚决抵制拒之门外
 
-如果你是应用开发者，恳请_**不注册**_抢先体验计划、进行身份验证，又或接受邀请加入 Android 开发人员控制台。有（礼貌地）回应任何邀请，列出你的疑虑和异议。
-—— 只有在开发商的默许下，他们的统领谋划才会得逞_ ——
+如果你是应用开发者，恳请 _**不注册**_ 抢先体验计划、进行身份验证，又或接受邀请加入 Android 开发人员控制台。有（礼貌地）回应任何邀请，列出你的疑虑和异议。
+
+—— _只有在开发商的默许下，他们的统领谋划才会得逞_ ——
 
 不建议其他应用程序开发人员还有组织注册该计划。可使用社区论坛、社交媒体和博客文章来传播该信息。可将[FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn)包含在你的代码以通知你的应用用户。
 
@@ -222,6 +224,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 
 ### 社论以及博客
 
+- “Your Smartphone, Their Rules: How App Stores Enable Corporate-Government Censorship” - [https://www.aclu.org/news/free-speech/app-store-oligopoly](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 - “Application Gatekeeping: An Ever-Expanding Pathway to Internet Censorship” — [https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship)
 - “What We Talk About When We Talk About Sideloading” — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45736479))
 - “F-Droid and Google's Developer Registration Decree” — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45409794))
