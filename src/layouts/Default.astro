@@ -206,7 +206,7 @@ const languageEntries = Object.entries(languages);
       font-weight: 900;
       text-transform: uppercase;
       letter-spacing: 2px;
-      font-size: 1.0rem;
+      font-size: 1.5rem;
       text-align: center;
     
       /* The 3D Depth & Shadow Effect */
@@ -232,7 +232,7 @@ const languageEntries = Object.entries(languages);
 </head>
 <body>
   <div class="alarming-banner">
-    {lockdown_banner ?? "LOCKDOWN"} <span id="countdown"></span>
+    {lockdown_banner ?? "LOCKDOWN"}<br/><span id="countdown"></span>
   </div>
   <header>
     <h1>{title}<ThemeToggle /></h1>    

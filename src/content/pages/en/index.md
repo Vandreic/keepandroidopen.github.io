@@ -15,7 +15,7 @@ site_copyright: "**Copyright:** None. This work is marked"
 lockdown_banner: "Android will become a locked-down platform"
 ---
 
-In August 2025, Google [announced](https://developer.android.com/developer-verification) that starting next year,
+In August 2025, Google [announced](https://developer.android.com/developer-verification) that as of September 2026,
 it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
 This registration will involve:
@@ -33,7 +33,7 @@ This registration will involve:
 
 ## What this means for your rights
 
-➤ You, **the consumer**, purchased your Android device believing in Google’s promise that it was an open computing platform and that you could run whatever software you choose on it. Instead, starting next year, they will be non-consensually pushing an update to your operating system that irrevocably blocks this right and leaves you at the mercy of their judgement over what software you are permitted to trust.
+➤ You, **the consumer**, purchased your Android device believing in Google’s promise that it was an open computing platform and that you could run whatever software you choose on it. Instead, as of September 2026, they will be non-consensually pushing an update to your operating system that irrevocably blocks this right and leaves you at the mercy of their judgement over what software you are permitted to trust.
 
 ➤ You, **the creator**, can no longer develop an app and share it directly with your friends, family, and community without first seeking Google’s approval. The promise of Android — and a marketing advantage it has used to distinguish itself against the iPhone — has always been that it is “open”. But Google clearly feels that they have enough of a lock on the Android ecosystem, along with sufficient regulatory capture, that they can now jettison this principle with prejudice and impunity.
 

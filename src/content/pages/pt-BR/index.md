@@ -15,7 +15,7 @@ site_copyright: "**Copyright:** Nenhum. Esse trabalho é marcado como"
 lockdown_banner: "O Android se tornará uma plataforma fechada"
 ---
 
-Em Agosto de 2025 o Google [anunciou](https://developer.android.com/developer-verification) que, a partir do ano que vem,
+Em Agosto de 2025 o Google [anunciou](https://developer.android.com/developer-verification) que, a partir de setembro de 2026,
 não será mais possível desenvolver apps para a plataforma Android
 sem primeiro registrar-se de forma centralizada com o Google.
 Esse registro envolverá:
@@ -33,7 +33,7 @@ Esse registro envolverá:
 
 ## O que isso significa para os seus direitos
 
-➤ Você, **consumidor**, comprou seu dispositivo Android acreditando na promessa do Google de que era uma plataforma de computação aberta e que você poderia executar qualquer software que escolhesse. Em vez disso, a partir do próximo ano, eles estarão forçando, sem consentimento, uma atualização em seu sistema operacional que bloqueia irrevogavelmente esse direito e o deixa à mercê do julgamento deles sobre quais softwares você pode confiar.
+➤ Você, **consumidor**, comprou seu dispositivo Android acreditando na promessa do Google de que era uma plataforma de computação aberta e que você poderia executar qualquer software que escolhesse. Em vez disso, a partir de setembro de 2026, eles estarão forçando, sem consentimento, uma atualização em seu sistema operacional que bloqueia irrevogavelmente esse direito e o deixa à mercê do julgamento deles sobre quais softwares você pode confiar.
 
 ➤ Você, **criador**, não pode mais desenvolver um aplicativo e compartilhá-lo diretamente com seus amigos, familiares e comunidade sem antes buscar a aprovação do Google. A promessa do Android — e uma vantagem de marketing que a empresa usou para se distinguir do iPhone — sempre foi a de que ele é “aberto“. Mas o Google claramente sente que tem controle suficiente sobre o ecossistema Android, junto com uma captura regulatória adequada, para poder descartar esse princípio com preconceito e impunidade.
 

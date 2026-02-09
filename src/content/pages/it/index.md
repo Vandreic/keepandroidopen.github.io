@@ -15,7 +15,7 @@ site_copyright: "**Diritti d'autore:** Nessuno. Quest'opera è soggetta alla lic
 lockdown_banner: "Android diventerà una piattaforma bloccata"
 ---
 
-Nell'agosto 2025 Google [ha annunciato](https://developer.android.com/developer-verification) che a partire dal prossimo anno
+Nell'agosto 2025 Google [ha annunciato](https://developer.android.com/developer-verification) che a partire da settembre 2026
 non sarà più possibile sviluppare applicazioni per la piattaforma Android senza prima registrarsi centralmente presso Google.
 Questa registrazione richiederà di:
 
@@ -32,7 +32,7 @@ Questa registrazione richiederà di:
 
 ## Cosa significa questo per i tuoi diritti
 
-➤ Tu, **il consumatore**, hai acquistato il tuo dispositivo Android credendo alla promessa di Google che si trattasse di una piattaforma informatica aperta e che avresti potuto eseguire qualsiasi software avessi scelto. Invece, a partire dal prossimo anno, ti imporranno senza il tuo consenso un aggiornamento del sistema operativo che bloccherà irrevocabilmente questo diritto e ti lascerà in balia del loro giudizio su quali software potrai ritenere affidabili.
+➤ Tu, **il consumatore**, hai acquistato il tuo dispositivo Android credendo alla promessa di Google che si trattasse di una piattaforma informatica aperta e che avresti potuto eseguire qualsiasi software avessi scelto. Invece, a partire da settembre 2026, ti imporranno senza il tuo consenso un aggiornamento del sistema operativo che bloccherà irrevocabilmente questo diritto e ti lascerà in balia del loro giudizio su quali software potrai ritenere affidabili.
 
 ➤ Tu, **il creatore**, non potrai più sviluppare un'applicazione e condividerla direttamente con i tuoi amici, familiari e comunità senza prima ottenere l'approvazione di Google. La promessa di Android, e il vantaggio di marketing che ha sfruttato per distinguersi da iOS (iPhone), è sempre stata quella di essere "aperto". Tuttavia, Google ritiene chiaramente di avere un controllo sufficiente sull'ecosistema Android, insieme a un adeguato potere normativo, da poter abbandonare questo principio con pregiudizio e impunità.
 

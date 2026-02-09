@@ -15,7 +15,7 @@ site_copyright: "**Telif Hakkı**: Yok. Bu çalışma kamu malıdır:"
 lockdown_banner: "Android kısıtlı bir platform haline gelecek."
 ---
 
-Ağustos 2025 tarihinde Google, gelecek seneden itibaren önceden
+Ağustos 2025 tarihinde Google, Eylül 2026 itibarıyla önceden
 ile merkezi kayıt yaptırılmadan Android platformu için uygulama
 geliştirmenin mümkün olmayacağını beyan etmiştir.
 Bu kayıt, şunlara sebep olacaktır:

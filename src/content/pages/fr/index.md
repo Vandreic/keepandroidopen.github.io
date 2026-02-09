@@ -12,10 +12,10 @@ site_disclaimer: "**Avertissement :** Ce site web est une initiative communauta
 site_privacy: "**Confidentialité :** Ce site n’utilise aucun cookie et n’effectue aucun suivi ni enregistrement des utilisateurs."
 site_copyright: "**Droits d'auteur :** Aucun. Cette œuvre est sous licence"
 
-lockdown_banner: "Android deviendra une plateforme verrouillée."
+lockdown_banner: "Android deviendra une plateforme verrouillée"
 ---
 
-En août 2025, Google a [annoncé](https://developer.android.com/developer-verification) que, dès l'année suivante,
+En août 2025, Google a [annoncé](https://developer.android.com/developer-verification) que, à partir de septembre 2026,
 il ne sera plus possible de développer des applications pour la plateforme Android
 sans s'être préalablement enregistré auprès de Google.
 Cet enregistrement impliquera:
@@ -33,7 +33,7 @@ Cet enregistrement impliquera:
 
 ## Ce que cela signifie pour vos droits
 
-➤ Vous, **le consommateur**, avez acheté votre appareil Android en croyant à la promesse de Google : une plateforme informatique ouverte sur laquelle vous pouviez exécuter les logiciels de votre choix. Or, dès l’année prochaine, Google déploiera sans votre consentement une mise à jour de votre système d’exploitation qui bloquera définitivement ce droit et vous laissera à la merci de son jugement quant aux logiciels auxquels vous êtes autorisé à faire confiance.
+➤ Vous, **le consommateur**, avez acheté votre appareil Android en croyant à la promesse de Google : une plateforme informatique ouverte sur laquelle vous pouviez exécuter les logiciels de votre choix. Or, à partir de septembre 2026, Google déploiera sans votre consentement une mise à jour de votre système d’exploitation qui bloquera définitivement ce droit et vous laissera à la merci de son jugement quant aux logiciels auxquels vous êtes autorisé à faire confiance.
 
 ➤ Vous, **le créateur**, ne pourrez plus développer d’application et la partager directement avec vos amis, votre famille et votre communauté sans obtenir au préalable l’approbation de Google. La promesse d’Android – un argument marketing qui lui a permis de se démarquer de l’iPhone – a toujours reposé sur son ouverture. Mais Google estime manifestement exercer une emprise suffisante sur l’écosystème Android, ainsi qu’une influence réglementaire suffisante, pour pouvoir désormais abandonner ce principe en toute impunité et sans discrimination.
 

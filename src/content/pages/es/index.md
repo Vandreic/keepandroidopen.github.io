@@ -15,7 +15,7 @@ site_copyright: «**Derechos de autor:** Ninguno. Esta obra está bajo la licenc
 lockdown_banner: "Android se convertirá en una plataforma cerrada"
 ---
 
-En agosto de 2025, Google [anunció](https://developer.android.com/developer-verification) que, a partir del año siguiente,
+En agosto de 2025, Google [anunció](https://developer.android.com/developer-verification) que, a partir de septiembre de 2026,
 ya no será posible desarrollar aplicaciones para la plataforma Android
 sin haberse registrado previamente en Google.
 Este registro implicará:
@@ -33,7 +33,7 @@ Este registro implicará:
 
 ## Qué significa esto para sus derechos
 
-➤ Usted, **el consumidor**, compró su dispositivo Android confiando en la promesa de Google: una plataforma informática abierta en la que podía ejecutar el software que deseara. Sin embargo, a partir del próximo año, Google implementará, sin su consentimiento, una actualización de su sistema operativo que bloqueará definitivamente este derecho y lo dejará a merced del criterio de Google sobre el software en el que se le permite confiar.
+➤ Usted, **el consumidor**, compró su dispositivo Android confiando en la promesa de Google: una plataforma informática abierta en la que podía ejecutar el software que deseara. Sin embargo, a partir de septiembre de 2026, Google implementará, sin su consentimiento, una actualización de su sistema operativo que bloqueará definitivamente este derecho y lo dejará a merced del criterio de Google sobre el software en el que se le permite confiar.
 
 ➤ Usted, **el creador**, ya no podrá desarrollar aplicaciones y compartirlas directamente con sus amigos, familiares y comunidad sin obtener primero la aprobación de Google. La promesa de Android, un argumento de marketing que siempre lo ha diferenciado del iPhone, se ha basado en su apertura. Pero Google claramente considera que ejerce un control suficiente sobre el ecosistema Android, así como una influencia reguladora suficiente, como para abandonar ahora este principio con total impunidad y sin discriminación.
 

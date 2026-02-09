@@ -15,7 +15,7 @@ site_copyright: "**Copyright:** Žádný. Toto dílo je označeno"
 lockdown_banner: "Android will become a locked-down platform in"
 ---
 
-V srpnu 2025, Google [oznámil](https://developer.android.com/developer-verification), že od následujícího roku
+V srpnu 2025, Google [oznámil](https://developer.android.com/developer-verification), že k září 2026
 nebude nadále možné vyvíjet aplikace pro platformu Android
 bez toho, aby se nejdřív vývojáři registrovali centrálně u Googlu.
 Tato registrace bude zahrnovat:
@@ -33,7 +33,7 @@ Tato registrace bude zahrnovat:
 
 ## Co to znamená pro vaše práva
 
-➤ Vy, **uživatelé**, jste si koupili vaše Android zařízení s vírou ve slib Googlu, že je to otevřená výpočetní platforma a že můžete spouštět jakýkoliv software si vyberete. Místo toho, od následujícího roku, bude Google nekonsenzuálně posílat aktualizaci na váš operační systém, která neodvolatelně zablokuje toto právo a nechá vás na milost svého rozhodnutí jakému softwaru můžete věřit.
+➤ Vy, **uživatelé**, jste si koupili vaše Android zařízení s vírou ve slib Googlu, že je to otevřená výpočetní platforma a že můžete spouštět jakýkoliv software si vyberete. Místo toho, k září 2026, bude Google nekonsenzuálně posílat aktualizaci na váš operační systém, která neodvolatelně zablokuje toto právo a nechá vás na milost svého rozhodnutí jakému softwaru můžete věřit.
 
 ➤ Vy, **tvůrci**, nemůžete nadále vyvíjet aplikace a sdílet je přímo se svými přáteli, rodinou a komunitou bez předchozího odsouhlasení Googlem. Slib Androidu — a tržní výhoda, která ho odlišovala od iPhonu — vždycky byl, že bude “otevřený”. Google si však jasně myslí, že má dostatek uživatelů uzamčených v androidím ekosystému spolu s dostatečným regulačním zachycením, takže může tento princip s předsudky a beztrestností odhodit.
 

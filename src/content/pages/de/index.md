@@ -15,7 +15,7 @@ site_copyright: "**Urheberrechte**: Keine. Dieses Werk steht unter der Lizenz"
 lockdown_banner: "Android wird eine geschlossene Plattform werden."
 ---
 
-Im August 2025 hat Google [angekündigt](https://developer.android.com/developer-verification), dass es ab dem folgenden Jahr nicht mehr möglich sein wird, Anwendungen für die Android-Plattform zu entwickeln, ohne sich zuvor bei Google registriert zu haben.
+Im August 2025 hat Google [angekündigt](https://developer.android.com/developer-verification), dass es ab September 2026 nicht mehr möglich sein wird, Anwendungen für die Android-Plattform zu entwickeln, ohne sich zuvor bei Google registriert zu haben.
 Diese Registrierung umfasst:
 
 - Zahlung einer Gebühr an Google
@@ -32,7 +32,7 @@ Diese Registrierung umfasst:
 
 ## Was das für Ihre Rechte bedeutet
 
-➤ Sie, **der Verbraucher**, haben Ihr Android-Gerät im Vertrauen auf Googles Versprechen gekauft: eine offene Computerplattform, auf der Sie jede beliebige Software ausführen können. Doch ab dem nächsten Jahr wird Google ohne Ihre Zustimmung ein Betriebssystem-Update einspielen, das dieses Recht dauerhaft blockiert und Sie vollständig von Googles Urteil abhängig macht, welchen Anwendungen Sie künftig „vertrauen dürfen“.
+➤ Sie, **der Verbraucher**, haben Ihr Android-Gerät im Vertrauen auf Googles Versprechen gekauft: eine offene Computerplattform, auf der Sie jede beliebige Software ausführen können. Doch ab September 2026 wird Google ohne Ihre Zustimmung ein Betriebssystem-Update einspielen, das dieses Recht dauerhaft blockiert und Sie vollständig von Googles Urteil abhängig macht, welchen Anwendungen Sie künftig „vertrauen dürfen“.
 
 ➤ Sie, **der Entwickler**, werden keine Anwendungen mehr erstellen und direkt mit Freunden, Familie oder Ihrer Gemeinschaft teilen können, ohne zuvor Googles Genehmigung einzuholen. Das Versprechen von Android – das wichtigste Argument, mit dem sich das System einst vom iPhone abhob – beruhte stets auf seiner Offenheit. Doch offenbar ist Google überzeugt, inzwischen genug Kontrolle über das Android-Ökosystem und ausreichenden regulatorischen Einfluss zu besitzen, um dieses Prinzip nun folgenlos und willkürlich aufzugeben.
 

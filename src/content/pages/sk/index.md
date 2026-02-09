@@ -15,7 +15,7 @@ site_copyright: "**Autorské práva:** Žiadne. Toto dielo je označené"
 lockdown_banner: "Android sa stane uzamknutou platformou"
 ---
 
-V auguste 2025 spoločnosť Google [oznámila](https://developer.android.com/developer-verification), že od budúceho roka
+V auguste 2025 spoločnosť Google [oznámila](https://developer.android.com/developer-verification), že k septembru 2026
 už nebude možné vyvíjať aplikácie pre platformu Android
 bez predchádzajúcej registrácie v centrálnej databáze spoločnosti Google.
 Táto registrácia bude zahŕňať:
@@ -33,7 +33,7 @@ Táto registrácia bude zahŕňať:
 
 ## Čo to znamená pre vaše práva
 
-➤ Vy, **spotrebiteľ**, ste si kúpili zariadenie Android, veriac sľubu spoločnosti Google, že ide o otvorenú počítačovú platformu a že na ňom môžete spúšťať akýkoľvek softvér, ktorý si vyberiete. Namiesto toho vám od budúceho roka budú bez vášho súhlasu nútiť aktualizáciu operačného systému, ktorá toto právo neodvolateľne blokuje a ponecháva vás na milosť a nemilosť ich rozhodnutia o tom, ktorému softvéru môžete dôverovať.
+➤ Vy, **spotrebiteľ**, ste si kúpili zariadenie Android, veriac sľubu spoločnosti Google, že ide o otvorenú počítačovú platformu a že na ňom môžete spúšťať akýkoľvek softvér, ktorý si vyberiete. Namiesto toho vám k septembru 2026 budú bez vášho súhlasu nútiť aktualizáciu operačného systému, ktorá toto právo neodvolateľne blokuje a ponecháva vás na milosť a nemilosť ich rozhodnutia o tom, ktorému softvéru môžete dôverovať.
 
 ➤ Vy, **tvorca**, už nebudete môcť vyvíjať aplikácie a zdieľať ich priamo so svojimi priateľmi, rodinou a komunitou bez toho, aby ste najskôr požiadali o súhlas Google. Sľubom Androidu – a marketingovou výhodou, ktorú využíval na odlíšenie sa od iPhone – bolo vždy to, že je „otvorený“. Google však zjavne cíti, že má dostatočnú kontrolu nad ekosystémom Androidu a dostatočný regulačný vplyv, aby mohol tento princíp bezohľadne a beztrestne zavrhnúť.
 
