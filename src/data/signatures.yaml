@@ -61,7 +61,7 @@
 - organization: "Fastmail"
   url: "fastmail.com"
   poc: "Bek Fraser <bekf@fastmailteam.com>"
-  region: US
+  region: AU
 - organization: "F-Droid"
   url: "f-droid.org"
   poc: "board@f-droid.org"
