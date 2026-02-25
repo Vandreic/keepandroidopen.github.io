@@ -1224,7 +1224,7 @@ countries:
           ko: "Contact the [Thailand Consumers Council (TCC)](https://www.tcc.or.th/)"
           zh-TW: "聯絡[泰國消費者委員會 (TCC)](https://www.tcc.or.th/)"
       - text:
-          ar: "_ملاحظة: من المقرر أن تكون تايلاند واحدة من [الدول الأربع الأولى](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) التي سيتم فيها تطبيق تسجيل المطورين. _"
+          ar: "_ملاحظة: من المقرر أن تكون تايلاند واحدة من [الدول الأربع الأولى](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) التي سيتم فيها تطبيق تسجيل المطورين._"
           en: "_Note: Thailand is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_"
           ru: "_Примечание: Таиланд входит в число [первых 4 стран](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/), где будет принудительно введена регистрация разработчиков_"
           de: "*Hinweis: Thailand wird voraussichtlich zu den [ersten vier Ländern](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) gehören, in denen die Entwicklerregistrierung obligatorisch wird.*"
@@ -1483,7 +1483,7 @@ countries:
       ja: "日本"
     items:
       - text:
-          ar: "البريد الإلكتروني: Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
+          ar: "البريد الإلكتروني: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
           en: "Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
           ru: "Электронная почта: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
           de: "E-Mail: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
